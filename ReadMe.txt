@@ -1,1 +1,0 @@
-Esse trabalho tem como objetivo buscar elementos em um vetor de forma recursiva. Pode ser alterado ou utilizado por qualquer pessoa.
